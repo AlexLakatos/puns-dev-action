@@ -1,0 +1,8 @@
+name: 'puns.dev'
+description: 'A hand-picked selection of the worst computer puns on the Internet, really cringe-worthy stuff.'
+outputs:
+  pun:
+    description: 'A random pun from the collection.'
+runs:
+  using: 'node12'
+  main: 'index.js'

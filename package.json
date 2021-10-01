@@ -1,0 +1,50 @@
+{
+  "name": "puns-dev-action",
+  "version": "1.0.0",
+  "description": "GitHub Action for a hand-picked selection of the worst computer puns on the Internet, really cringe-worthy stuff.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexLakatos/puns-dev-action.git"
+  },
+  "keywords": [
+    "bad",
+    "puns",
+    "puns",
+    "computer",
+    "puns",
+    "bad",
+    "computer",
+    "puns",
+    "top",
+    "puns",
+    "best",
+    "puns",
+    "dad",
+    "jokes",
+    "bad",
+    "jokes",
+    "best",
+    "dad",
+    "jokes",
+    "top",
+    "dad",
+    "jokes",
+    "puns",
+    "list"
+  ],
+  "author": "Alex Lakatos <https://twitter.com/lakatos88>",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/AlexLakatos/puns-dev-action/issues"
+  },
+  "homepage": "https://github.com/AlexLakatos/puns-dev-action#readme",
+  "dependencies": {
+    "@actions/core": "^1.6.0",
+    "@actions/github": "^5.0.0",
+    "puns.dev": "^0.1.5"
+  }
+}
