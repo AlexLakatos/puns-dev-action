@@ -8,6 +8,10 @@ This action prints a random pun from a hand-picked selection of the worst comput
 
 The random pun.
 
+## `punchline`
+
+The corresponding punchline.
+
 ## Example usage
 
-uses: actions/puns-dev-action@v1.0
+uses: actions/puns-dev-action@v1.2

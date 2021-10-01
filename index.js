@@ -4,8 +4,8 @@ const puns = require('puns.dev');
 
 try {
   let pun = puns.random();
-  core.setOutput("pun", JSON.stringify(pun));
-  console.log(`The pun: ${JSON.stringify(pun)}`);
+  core.setOutput("pun", pun.pun);
+  core.setOutput("punchline", pun.punchline);
   const payload = JSON.stringify(github.context.payload, undefined, 2)
   console.log(`The event payload: ${payload}`);
 } catch (error) {

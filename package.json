@@ -1,6 +1,6 @@
 {
   "name": "puns-dev-action",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "description": "GitHub Action for a hand-picked selection of the worst computer puns on the Internet, really cringe-worthy stuff.",
   "main": "index.js",
   "scripts": {

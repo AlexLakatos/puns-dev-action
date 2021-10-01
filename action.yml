@@ -3,6 +3,8 @@ description: 'A hand-picked selection of the worst computer puns on the Internet
 outputs:
   pun:
     description: 'A random pun from the collection.'
+  punchline:
+    description: 'The corresponding punchline for the pun.'
 runs:
   using: 'node12'
   main: 'index.js'
