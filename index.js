@@ -3,7 +3,9 @@ const github = require('@actions/github');
 const puns = require('puns.dev');
 
 try {
-  core.setOutput("pun", puns.random());
+  let pun = puns.random();
+  core.setOutput("pun", pun);
+  console.log(`The pun: ${pun}`);
   const payload = JSON.stringify(github.context.payload, undefined, 2)
   console.log(`The event payload: ${payload}`);
 } catch (error) {
