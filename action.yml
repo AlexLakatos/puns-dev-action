@@ -1,5 +1,9 @@
 name: 'puns.dev'
 description: 'A hand-picked selection of the worst computer puns on the Internet, really cringe-worthy stuff.'
+author: 'AlexLakatos'
+branding:
+  color: 'blue'
+  icon: 'git-pull-request'
 outputs:
   pun:
     description: 'A random pun from the collection.'
