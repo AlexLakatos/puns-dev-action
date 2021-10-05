@@ -1,4 +1,4 @@
-# Hello world javascript action
+# puns.dev Action
 
 This action prints a random pun from a hand-picked selection of the worst computer puns on the Internet, really cringe-worthy stuff.
 
