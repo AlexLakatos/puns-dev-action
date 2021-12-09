@@ -14,4 +14,4 @@ The corresponding punchline.
 
 ## Example usage
 
-uses: actions/puns-dev-action@v1.2
+uses: actions/puns-dev-action@v1.3
