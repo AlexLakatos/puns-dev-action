@@ -1,6 +1,6 @@
 {
   "name": "puns-dev-action",
-  "version": "1.3.0",
+  "version": "2.0.0",
   "description": "GitHub Action for a hand-picked selection of the worst computer puns on the Internet, really cringe-worthy stuff.",
   "main": "index.js",
   "scripts": {
@@ -43,8 +43,7 @@
   },
   "homepage": "https://github.com/AlexLakatos/puns-dev-action#readme",
   "dependencies": {
-    "@actions/core": "^1.6.0",
-    "@actions/github": "^5.0.0",
+    "@actions/core": "^1.10.1",
     "puns.dev": "^0.2.2"
   }
 }
