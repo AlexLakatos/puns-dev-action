@@ -10,5 +10,5 @@ outputs:
   punchline:
     description: 'The corresponding punchline for the pun.'
 runs:
-  using: 'node12'
+  using: 'node16'
   main: 'index.js'
